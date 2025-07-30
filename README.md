@@ -1,9 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currency & Crypto Converter README</title>
+    <!--
+        NOTE: The <style> block below will NOT be rendered by GitHub's README.md.
+        GitHub READMEs use Markdown and their own default styling.
+        This HTML structure is provided if you intend to render it as a standalone HTML page.
+    -->
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -101,7 +104,7 @@
     <h2><span role="img" aria-label="star">🌟</span> Features</h2>
     <ul>
         <li><strong>Dual Conversion Modes:</strong> Convert between fiat currencies or from cryptocurrency to fiat currency.</li>
-        <li><strong>Real-time Rates:</strong> Fetches live exchange rates from reliable APIs.</li>
+        <li><strong>Real-time Rates:</b> Fetches live exchange rates from reliable APIs.</li>
         <li><strong>Wide Range of Currencies:</strong> Supports an extensive list of global fiat currencies and top cryptocurrencies.</li>
         <li><strong>User-Friendly Interface:</strong> A clean, modern, and intuitive graphical user interface (GUI) built with Tkinter.</li>
         <li><strong>Error Handling:</strong> Provides clear messages for network issues, invalid inputs, or API errors.</li>
@@ -191,4 +194,3 @@ cd Currency-Crypto-Converter-Tkinter</code></pre>
     <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>. <em>(It's a good idea to create a <code>LICENSE</code> file in your repo if you want to explicitly state the license).</em></p>
 
 </body>
-</html>
