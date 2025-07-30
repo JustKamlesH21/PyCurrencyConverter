@@ -71,5 +71,5 @@ Includes:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Crypto-Currency-Converter-Tkinter.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/PyCurrencyConverter.git
 cd Crypto-Currency-Converter-Tkinter
