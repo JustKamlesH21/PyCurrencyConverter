@@ -37,7 +37,7 @@ This application uses external APIs to retrieve up-to-date exchange rates:
 - **Fiat Currency Conversions:**  
   Uses [ExchangeRate-API](https://www.exchangerate-api.com/) (v6 endpoint)
 
-> **Note:** You need API keys for both services. See [Getting Started](#-getting-started) for setup.
+> **Note:** You need API keys for both services. 
 
 ---
 
