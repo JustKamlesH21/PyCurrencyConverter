@@ -40,6 +40,12 @@ The fiat panel reports timeouts, network errors and bad amounts in the result li
 
 The key is set in `main.py` as `api_key_cmc` (and in `Functions/Crypto_Function.py` for the command-line version). Get a free key at [coinmarketcap.com/api](https://coinmarketcap.com/api/) and put yours there.
 
+## Architecture
+
+<p align="center">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/architecture-m.svg"><img src="assets/readme/architecture.svg" width="100%" alt="Architecture. window · Tkinter: Fiat panel, Crypto panel; main.py: convert_currency, convert_crypto; web APIs: ExchangeRate-API, CoinMarketCap"></picture>
+</p>
+
 ## Supported codes
 
 **Fiat (33):** USD EUR INR GBP JPY AUD CAD CHF CNY NZD SGD HKD SEK KRW ZAR MXN BRL TRY RUB PLN THB IDR PHP SAR AED EGP NOK DKK HUF ILS TWD UAH VND
