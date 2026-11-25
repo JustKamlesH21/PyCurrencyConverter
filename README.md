@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/banner-m.svg"><img src="assets/readme/banner.svg" width="100%" alt="Currency and Crypto Converter: a desktop app that converts between 33 world currencies and 39 cryptocurrencies at live rates."></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/banner-m.png"><img src="assets/readme/banner.svg" width="100%" alt="Currency and Crypto Converter: a desktop app that converts between 33 world currencies and 39 cryptocurrencies at live rates."></picture>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ A small desktop converter written in Python and Tkinter. The window has two pane
 Watch the [demo video](Currency_Conerter_Demo.mp4) (MP4, 15 MB).
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.svg"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Jul 2025 - Apr 2026; Stack: Python · Tkinter · requests; Status: Working app, demo video included"></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.png"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Jul 2025 - Apr 2026; Stack: Python · Tkinter · requests; Status: Working app, demo video included"></picture>
 </p>
 
 ## Quick start
@@ -30,7 +30,7 @@ Fiat conversion works straight away. Crypto conversion needs a CoinMarketCap API
 ## How it works
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/how-it-works-m.svg"><img src="assets/readme/how-it-works.svg" width="100%" alt="How it works: pick currencies and an amount, the app requests a live rate from ExchangeRate-API or CoinMarketCap, and shows the result in the window."></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/how-it-works-m.png"><img src="assets/readme/how-it-works.svg" width="100%" alt="How it works: pick currencies and an amount, the app requests a live rate from ExchangeRate-API or CoinMarketCap, and shows the result in the window."></picture>
 </p>
 
 | Panel | Rate source | Key needed |
@@ -47,7 +47,7 @@ The key is set in `main.py` as `api_key_cmc` (and in `Functions/Crypto_Function.
 ## Architecture
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/architecture-m.svg"><img src="assets/readme/architecture.svg" width="100%" alt="Architecture. window · Tkinter: Fiat panel, Crypto panel; main.py: convert_currency, convert_crypto; web APIs: ExchangeRate-API, CoinMarketCap"></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/architecture-m.png"><img src="assets/readme/architecture.svg" width="100%" alt="Architecture. window · Tkinter: Fiat panel, Crypto panel; main.py: convert_currency, convert_crypto; web APIs: ExchangeRate-API, CoinMarketCap"></picture>
 </p>
 
 ## Supported codes
@@ -71,5 +71,5 @@ To add one, append its code to `currency_list` or `crypto_list` in `main.py`.
 No license file has been added yet, so default copyright applies.
 
 <p align="center">
-  <a href="https://github.com/JustKamlesH21"><picture><source media="(max-width: 767px)" srcset="assets/readme/footer-m.svg"><img src="assets/readme/footer.svg" width="100%" alt="Part of Kamlesh OS. More projects on github.com/JustKamlesH21"></picture></a>
+  <a href="https://github.com/JustKamlesH21"><picture><source media="(max-width: 767px)" srcset="assets/readme/footer-m.png"><img src="assets/readme/footer.svg" width="100%" alt="Part of Kamlesh OS. More projects on github.com/JustKamlesH21"></picture></a>
 </p>
