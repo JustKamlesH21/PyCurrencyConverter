@@ -12,6 +12,10 @@ A small desktop converter written in Python and Tkinter. The window has two pane
 
 Watch the [demo video](Currency_Conerter_Demo.mp4) (MP4, 15 MB).
 
+<p align="center">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.svg"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Jul 2025 - Apr 2026; Stack: Python · Tkinter · requests; Status: Working app, demo video included"></picture>
+</p>
+
 ## Quick start
 
 ```bash
