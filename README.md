@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme/banner.svg" width="100%" alt="Currency and Crypto Converter: a desktop app that converts between 33 world currencies and 39 cryptocurrencies at live rates.">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/banner-m.svg"><img src="assets/readme/banner.svg" width="100%" alt="Currency and Crypto Converter: a desktop app that converts between 33 world currencies and 39 cryptocurrencies at live rates."></picture>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Fiat conversion works straight away. Crypto conversion needs a CoinMarketCap API
 ## How it works
 
 <p align="center">
-  <img src="assets/readme/how-it-works.svg" width="100%" alt="How it works: pick currencies and an amount, the app requests a live rate from ExchangeRate-API or CoinMarketCap, and shows the result in the window.">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/how-it-works-m.svg"><img src="assets/readme/how-it-works.svg" width="100%" alt="How it works: pick currencies and an amount, the app requests a live rate from ExchangeRate-API or CoinMarketCap, and shows the result in the window."></picture>
 </p>
 
 | Panel | Rate source | Key needed |
@@ -61,5 +61,5 @@ To add one, append its code to `currency_list` or `crypto_list` in `main.py`.
 No license file has been added yet, so default copyright applies.
 
 <p align="center">
-  <a href="https://github.com/JustKamlesH21"><img src="assets/readme/footer.svg" width="100%" alt="Part of Kamlesh OS. More projects on github.com/JustKamlesH21"></a>
+  <a href="https://github.com/JustKamlesH21"><picture><source media="(max-width: 767px)" srcset="assets/readme/footer-m.svg"><img src="assets/readme/footer.svg" width="100%" alt="Part of Kamlesh OS. More projects on github.com/JustKamlesH21"></picture></a>
 </p>
